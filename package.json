@@ -1,0 +1,8 @@
+{
+  "name": "grunt-contrib-cssmin-example",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "^1.0.0",
+    "grunt-contrib-cssmin": "gruntjs/grunt-contrib-cssmin"
+  }
+}
